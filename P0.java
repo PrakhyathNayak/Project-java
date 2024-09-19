@@ -1,4 +1,4 @@
-public class R1{
+public class P0{
     public static void main(String[] args){
 	int n1=8;
 	int n2=4;
