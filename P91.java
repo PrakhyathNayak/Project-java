@@ -8,7 +8,7 @@ class Teacher extends Human{
 class Doctor extends Human{
     public void job(){
         System.out.println("Doctor");}}
-public class S91{
+public class P91{
     public static void main(String[] args){
         Human amar=new Human();
         Teacher babu =new Teacher();
