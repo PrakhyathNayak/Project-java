@@ -20,7 +20,7 @@ class TimeTable
   }
 }
   
-public class S92{
+public class P92{
   public static void main(String[]args){
     TimeTable tt2A=new TimeTable(2,"A");
     TimeTable tt2B=new TimeTable(2,"B");
