@@ -34,7 +34,7 @@ class Triangle1 extends Shape1{
 }
 }
 
-public class TestAbstractShape {
+public class P6 {
 	public static void main(String[] args) {
 		Circle1 circle1=new Circle1(5);
 		System.out.println("Area and Circumference of Circle are");
