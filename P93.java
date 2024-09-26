@@ -11,7 +11,7 @@ class Car{
         this.color=clr;}
     public void getCarDetails(){
         System.out.println(color+" "+make+"-"+model+" "+year);}}
-public class S93{
+public class P93{
     public static void main(String[] args){
         Car principalCar = new Car("Hyundai","i20",2022,"White");
         Car vprincipalCar = new Car("Maruti","Swift",2020, "Grey");
