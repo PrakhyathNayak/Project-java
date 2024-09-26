@@ -10,7 +10,7 @@ class SBI extends Bank1{
 class SCDCC extends Bank1{
     int getInterestRate(){
         return 8;}}
-public class S90{
+public class P90{
     public static void main(String[] args){
         Canara bank1=new Canara();   
         SBI bank2 = new SBI();
